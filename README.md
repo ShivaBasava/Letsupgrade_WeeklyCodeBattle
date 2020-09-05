@@ -1,7 +1,7 @@
 # Letsupgrade_WeeklyCodeBattle-13
 ## [LetsUpgrade Community Website](https://community.letsupgrade.in)
 
-## __Code Contest__
+## __Code Contest__ (Sept-01-2020)
   - [link](https://community.letsupgrade.in/question/weekly-code-battle---week-13-5f4cd0e4a1477253181b832d) to the contest.
 
 ## File - app.py
