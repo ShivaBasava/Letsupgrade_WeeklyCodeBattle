@@ -15,3 +15,7 @@
     - ```pip install googletrans``` or ```pip3 install googletrans```
   - At the conmsole run the following command to execute the script,
     - ```python app.py``` or ```python3 app.py```
+
+## Winner
+  - And the winner of the WEEKLY CODE BATTLE(__WEEK 13__) 🔥, click on the below link.
+  - CLick [here](https://community.letsupgrade.in/post/weekly-code-battle---week-13-winner-5f55f13e0622a972cd855c34)🥳.
