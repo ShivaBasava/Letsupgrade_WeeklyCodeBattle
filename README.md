@@ -12,3 +12,7 @@
 ## __Code Contest__ (Sept-07-2020)
   - [link](https://community.letsupgrade.in/question/weekly-code-battle---week-14-5f55f1cde00a98604dde1314) to the contest.
   - Navigate to the Folder __Week14__, Click here [Week14](https://github.com/ShivaBasava/Letsupgrade_WeeklyCodeBattle/tree/master/Week14)
+  
+## Winner
+  - Have __won__ the WEEKLY CODE BATTLE(__WEEK 14__) 🔥, click on the below link.
+  - Click [here](https://community.letsupgrade.in/post/weekly-code-battle---week-14-winner-5f5f2ec34060fe1d72bdeb45)🥳.
